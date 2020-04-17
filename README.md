@@ -12,8 +12,6 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 ![Sample Output][image1]
 
 
-### Instructions
-
 Technologies used in this folder:
 
 * Python, numpy
