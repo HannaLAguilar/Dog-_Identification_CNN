@@ -14,6 +14,12 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 
 ### Instructions
 
+Technologies used in this folder:
+
+* Python, numpy
+* Pytorch
+* Convolutional Neural Networks (CNN)
+* jupyter notebook, anaconda
 
 
 
