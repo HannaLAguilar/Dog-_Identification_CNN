@@ -18,5 +18,14 @@ Technologies used in this folder:
 * Convolutional Neural Networks (CNN)
 * jupyter notebook, anaconda
 
+## Data
+
+`!wget -qq https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+!unzip -qq dogImages.zip
+!rm dogImages.zip
+!wget -qq https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+!unzip -qq lfw.zip
+!rm lfw.zip
+!rm -r __MACOSX'
 
 
