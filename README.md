@@ -19,7 +19,7 @@ Technologies used in this folder:
 * jupyter notebook, anaconda
 
 ## Data
-`SentimentNetwork`
+
 `!wget -qq https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 !unzip -qq dogImages.zip
 !rm dogImages.zip
