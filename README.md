@@ -14,7 +14,7 @@ This project involves the implementation of an image classification code using C
 ## Data
 
 1. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
-2. Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder.
+2. Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`. If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder.
 
 Using wget you can run this code and the data will downloaded:
 
@@ -28,24 +28,13 @@ Using wget you can run this code and the data will downloaded:
 !rm -r __MACOSX
 ```
 
+Make sure you have already installed the necessary Python packages according to the Installation section.
 
-
-
-Technologies used in this folder:
+## Technologies used in this folder:
 
 * Python, numpy
 * Pytorch
 * Convolutional Neural Networks (CNN)
 * jupyter notebook, anaconda
 
-## Data
-~~~~~~~
-!wget -qq https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
-!unzip -qq dogImages.zip
-!rm dogImages.zip
-!wget -qq https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
-!unzip -qq lfw.zip
-!rm lfw.zip
-!rm -r __MACOSX
 
-~~~~~~~
