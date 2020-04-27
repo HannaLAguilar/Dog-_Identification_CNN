@@ -37,7 +37,7 @@ Using wget you can run this code and the data will downloaded:
 
 ## Installation
 
-Using [Anaconda](https://www.anaconda.com/products/individual), run the follow lines of code:
+Using [Anaconda](https://www.anaconda.com/products/individual), run the following lines of code:
 
 1. Create an enviroment:
 ```
