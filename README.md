@@ -56,6 +56,7 @@ conda install -c pytorch torchvision
 3. Install a few required packages, which are specified in the requirements text file (including OpenCV):
 ```
 conda install --file requirements.txt
+or
 pip install -r requirements.txt
 ```
 
