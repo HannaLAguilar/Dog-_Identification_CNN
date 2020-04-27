@@ -57,5 +57,5 @@ conda install --file requirements.txt
 or
 pip install -r requirements.txt
 ```
-
+Then, run the dog_app.ipynb
 
