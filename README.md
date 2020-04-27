@@ -11,6 +11,13 @@ This project involves the implementation of an image classification code using C
 
 ![Sample Output][image1]
 
+### Technologies used:
+
+* Python, numpy
+* Pytorch
+* Convolutional Neural Networks (CNN)
+* jupyter notebook, anaconda
+
 ## Data
 
 1. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.  The `dogImages/` folder should contain 133 folders, each corresponding to a different dog breed.
@@ -27,13 +34,6 @@ Using wget you can run this code and the data will downloaded:
 !rm lfw.zip
 !rm -r __MACOSX
 ```
-
-## Technologies used:
-
-* Python, numpy
-* Pytorch
-* Convolutional Neural Networks (CNN)
-* jupyter notebook, anaconda
 
 ## Installation
 
