@@ -28,8 +28,6 @@ Using wget you can run this code and the data will downloaded:
 !rm -r __MACOSX
 ```
 
-Make sure you have already installed the necessary Python packages according to the Installation section.
-
 ## Technologies used in this folder:
 
 * Python, numpy
