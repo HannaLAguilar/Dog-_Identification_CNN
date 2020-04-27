@@ -47,7 +47,7 @@ conda create -n dog_app python=3.6
 conda activate dog_app
 ```
 
-2. Install pytorch and torchvision
+2. Install pytorch and torchvision:
 ```
 conda install -c pytorch pytorch
 conda install -c pytorch torchvision
