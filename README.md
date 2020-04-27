@@ -28,7 +28,7 @@ Using wget you can run this code and the data will downloaded:
 !rm -r __MACOSX
 ```
 
-## Technologies used in this folder:
+## Technologies used:
 
 * Python, numpy
 * Pytorch
