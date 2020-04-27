@@ -37,4 +37,26 @@ Make sure you have already installed the necessary Python packages according to 
 * Convolutional Neural Networks (CNN)
 * jupyter notebook, anaconda
 
+## Installation
+
+Using [Anaconda](https://www.anaconda.com/products/individual), run the follow lines of code:
+
+1. Create an enviroment:
+```
+conda create -n dog_app python=3.6
+conda activate dog_app
+```
+
+2. Install pytorch and torchvision
+```
+conda install -c pytorch pytorch
+conda install -c pytorch torchvision
+```
+
+3. Install a few required packages, which are specified in the requirements text file (including OpenCV):
+```
+conda install --file requirements.txt
+pip install -r requirements.txt
+```
+
 
