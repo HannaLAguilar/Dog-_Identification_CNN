@@ -16,7 +16,7 @@ This project involves the implementation of an image classification code using C
 * Python, numpy
 * Pytorch
 * Convolutional Neural Networks (CNN)
-* Transfer learning: VGG16 
+* Transfer learning: VGG16, Resnet50
 * jupyter notebook, anaconda
 
 ## Data
