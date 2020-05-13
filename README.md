@@ -11,10 +11,9 @@ This project implements of an image classification using CNNs on a dog breeds da
 
 ![Sample Output][image1]
 
-### Technologies used:
+#### Technologies used:
 
-* Python, numpy
-* Pytorch
+* Python, pytorch, numpy
 * Convolutional Neural Networks (CNN)
 * Transfer learning: VGG16, Resnet50
 * jupyter notebook, anaconda
