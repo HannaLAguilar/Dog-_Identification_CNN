@@ -2,8 +2,7 @@
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
 
-# Dog breed classification App
-
+# Dog breed classifier App
 
 ## Project Overview
 
