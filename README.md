@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project implements of an image classification using CNNs on a dog breeds dataset. Given an image of a dog, the algorithm will identify an estimate of the dog’s breed. If supplied an image of a human, the code will identify the resembling dog breed.  
+This project implements of an image classifier using CNNs on a dog breeds dataset. Given an image of a dog, the algorithm will identify an estimate of the dog’s breed. If supplied an image of a human, the code will identify the resembling dog breed.  
 
 ![Sample Output][image1]
 
